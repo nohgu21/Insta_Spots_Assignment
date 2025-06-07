@@ -1,7 +1,7 @@
 # Insta Spots - Image Gallery App
 
 ## Overview
-Spots is a simple React application that displays a collection of images in an interactive gallery. Users can preview images, like posts, and edit their profile.
+Insta Spots is a simple React application that displays a collection of images in an interactive gallery. Users can preview images, like posts, and edit their profile.
 
 ## Features
 - **Profile Management**: Users can update their profile name, title, and avatar.
